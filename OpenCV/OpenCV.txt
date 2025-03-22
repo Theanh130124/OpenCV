@@ -1,6 +1,26 @@
 
 python.exe -m pip install --upgrade pip
 pip install opencv-python
+
+
+
+
+
+============
 pip install mediapipe opencv-python
 
 Vẽ line hình ảnh ,cam đường ngon tay
+
+
+
+
+=========
+pip install cmake
+
+
+//Phải cài anaconda moi cai dc d
+pip install dlib
+
+Làm việc volunm
+//pip install pycaw
+

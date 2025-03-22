@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread("images/A.jpg",1)
+img = cv2.imread("../images/A.jpg", 1)
 
 # print(img) # hình ảnh sẽ được biển diễn bởi ma trận điểm
 # print(type(img)) #numpy -> tối ưu khi hoạt động ới mảng

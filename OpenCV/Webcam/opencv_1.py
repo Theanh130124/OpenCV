@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread("images/A.jpg",1) #path , flag
+img = cv2.imread("../images/A.jpg", 1) #path , flag
 img  = cv2.resize(img,(400,200)) # rong dài
 #flag
 # 1 (hoặc cv2.IMREAD_COLOR): Đọc ảnh ở chế độ màu BGR (bỏ qua kênh alpha nếu có).
